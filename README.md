@@ -12,7 +12,7 @@
 - 🌱 I’m currently focused on building high-performance web applications using **Next.js** and robust backend data architectures with **MongoDB** and **Python**.
 - 💡 Passionate about clean code, efficient workflows, and building intuitive user experiences.
 - ⚡ Fun fact: I love developing practical software tools that solve real-world problems.
-- 📫 Reach me via email: [your.email@example.com](mailto:damanstudyonly.com)
+- 📫 Reach me via email: [damanstudyonly.com](mailto:damanstudyonly.com)
 
 ---
 
@@ -81,7 +81,7 @@
 
 ### 📧 Connect with Me
 <p align="center">
-  <a href="mailto:your.email@example.com" target="_blank">
+  <a href="mailto:damanstudyonly.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
