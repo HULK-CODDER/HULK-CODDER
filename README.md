@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daman Preet Singh</h1>
+<h1 align="center">Hi 👋, I'm DamanPreet Singh</h1>
 <h3 align="center">Full-Stack Web Developer & Systems Builder</h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
 ---
 
 ### 💻 About Me
-- 🌱 I’m currently focused on building high-performance web applications using **Next.js** and robust backend data architectures with **MongoDB** and **Python**.
+- 🌱 I’m currently focused on building high-performance web applications using **Next.js** and robust backend data architectures with **MongoDB**.
 - 💡 Passionate about clean code, efficient workflows, and building intuitive user experiences.
 - ⚡ Fun fact: I love developing practical software tools that solve real-world problems.
 - 📫 Reach me via email: [damanstudyonly@gmail.com](mailto:damanstudyonly@gmail.com)
