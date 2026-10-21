@@ -54,7 +54,7 @@
       <h3><b>Lynxpace</b></h3>
       <p>An all-in-one route and transportation hub management platform designed for streamlined logistics tracking.</p>
       <p>
-        <em>🚀 Completed Hub Platform</em>
+        <a href="https://hulk-codder.github.io/Lynxpace/" target="_blank">🌐 Live Demo</a>
       </p>
     </td>
   </tr>
