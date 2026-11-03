@@ -51,10 +51,10 @@
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3><b>Lynxpace</b></h3>
-      <p>An all-in-one route and transportation hub management platform designed for streamlined logistics tracking.</p>
+      <h3><b>Locksy</b></h3>
+      <p>Locksy is a modern, open-source password manager built for privacy and speed. </p>
       <p>
-        <a href="https://hulk-codder.github.io/Lynxpace/" target="_blank">🌐 Live Demo</a>
+        <a href="https://locksy-seven.vercel.app/" target="_blank">🌐 Live Demo</a>
       </p>
     </td>
   </tr>
