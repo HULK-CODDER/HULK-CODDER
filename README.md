@@ -1,86 +1,118 @@
-<h1 align="center">Hi 👋, I'm DamanPreet Singh</h1>
-<h3 align="center">Full-Stack Web Developer & Systems Builder</h3>
+# DamanPreet Singh
+
+### Full-Stack Developer · Building Thoughtful Digital Experiences
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HULK-CODDER&color=blue&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Status-Building%20&%20Scaling-success?style=flat-square" alt="Status" />
-</p>
-
----
-
-### 💻 About Me
-- 🌱 I’m currently focused on building high-performance web applications using **Next.js** and robust backend data architectures with **MongoDB**.
-- 💡 Passionate about clean code, efficient workflows, and building intuitive user experiences.
-- ⚡ Fun fact: I love developing practical software tools that solve real-world problems.
-- 📫 Reach me via email: [damanstudyonly@gmail.com](mailto:damanstudyonly@gmail.com)
-
----
-
-### 🛠️ Tech Stack & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3><b>Linkly</b></h3>
-      <p>A sleek, high-performance URL shortener web app built for clean, shareable links and effortless link management.</p>
-      <p>
-        <a href="https://linkly-xi-coral.vercel.app/" target="_blank">🌐 Live Demo</a>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3><b>HutchFlow</b></h3>
-      <p>An interactive operations and dispatch logistics training platform for managing container workflows, orders, and routing.</p>
-      <p>
-        <a href="https://hulk-codder.github.io/HutchFlow/" target="_blank">🌐 Live Demo</a>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3><b>Locksy</b></h3>
-      <p>Locksy is a modern, open-source password manager built for privacy and speed. </p>
-      <p>
-        <a href="https://locksy-seven.vercel.app/" target="_blank">🌐 Live Demo</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HULK-CODDER&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HULK-CODDER&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
-
----
-
-### 📈 GitHub Contribution Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HULK-CODDER&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-### 📧 Connect with Me
-<p align="center">
-  <a href="mailto:damanstudyonly@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://github.com/HULK-CODDER">
+    <img src="https://komarev.com/ghpvc/?username=HULK-CODDER&style=flat-square&color=9C835B&label=PROFILE+VIEWS" alt="Profile views" />
   </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/OPEN_TO-OPPORTUNITIES-9C835B?style=flat-square" alt="Open to opportunities" />
+</p>
+
+<p align="center">
+  <samp>DESIGN WITH INTENTION. BUILD WITH PURPOSE.</samp>
+</p>
+
+---
+
+## About
+
+I'm **DamanPreet Singh**, a full-stack web developer interested in the intersection of thoughtful design, practical engineering, and useful software.
+
+My focus is building modern web applications with clean interfaces and reliable backend architectures. I enjoy taking an idea from its early concepts through development and turning it into something people can actually use.
+
+Currently, most of my work revolves around the **JavaScript ecosystem**, particularly Next.js, React, Node.js, and MongoDB.
+
+- Building full-stack applications with Next.js and React.
+- Designing backend systems and database architectures.
+- Exploring authentication, application architecture, and scalable workflows.
+- Continuously refining my approach to software development.
+
+**Contact:** [damanstudyonly@gmail.com](mailto:damanstudyonly@gmail.com)
+
+---
+
+## Selected Work
+
+A selection of projects I've designed and developed.
+
+### 01 — Linkly
+**URL Management · Web Application**
+
+A streamlined URL shortener focused on simplicity, clean presentation, and effortless link management.
+
+[View Live Project ↗](https://linkly-xi-coral.vercel.app/)
+
+---
+
+### 02 — HutchFlow
+**Logistics · Operations & Dispatch**
+
+An interactive logistics training platform inspired by container transportation workflows, order management, and dispatch operations.
+
+[View Live Project ↗](https://hulk-codder.github.io/HutchFlow/)
+
+---
+
+### 03 — Locksy
+**Security · Open Source**
+
+A modern password manager project built around privacy, simplicity, and a straightforward user experience.
+
+[View Live Project ↗](https://locksy-seven.vercel.app/)
+
+---
+
+## Technical Expertise
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-171717?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-171717?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-171717?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-171717?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-171717?style=flat-square&logo=nodedotjs&logoColor=68A063)
+![MongoDB](https://img.shields.io/badge/MongoDB-171717?style=flat-square&logo=mongodb&logoColor=47A248)
+
+**Tools & Languages**
+
+![Git](https://img.shields.io/badge/Git-171717?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-171717?style=flat-square&logo=python&logoColor=3776AB)
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=HULK-CODDER&show_icons=true&hide_border=true&bg_color=F7F5F0&title_color=806744&icon_color=9C835B&text_color=343434" alt="GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HULK-CODDER&layout=compact&hide_border=true&bg_color=F7F5F0&title_color=806744&text_color=343434" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=HULK-CODDER&hide_border=true&background=F7F5F0&ring=9C835B&fire=9C835B&currStreakLabel=806744&sideLabels=806744&currStreakNum=343434&sideNums=343434&dates=777777" alt="Contribution streak" />
+</p>
+
+---
+
+## Let's Connect
+
+I'm always interested in meaningful conversations, interesting engineering challenges, and opportunities to build useful products.
+
+<p align="center">
+  <a href="mailto:damanstudyonly@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-GET_IN_TOUCH-806744?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/HULK-CODDER">
+    <img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_WORK-171717?style=for-the-badge&logo=github&logoColor=white" alt="Visit GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>© DamanPreet Singh · Crafted with intention.</sub>
 </p>
